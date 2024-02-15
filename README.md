@@ -34,7 +34,7 @@
 <div>
 🛠️Languages and tools:
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nestjs" width="30" height="30" alt="Nestjs"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" width="30" height="30" alt="Nestjs"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="30" height="30" alt="Node.js"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>
     <img src ="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" width="30" height="30" alt="TS"/>
