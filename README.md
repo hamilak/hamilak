@@ -51,7 +51,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="30" height="30" alt="Figma"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" width="30" height="30" alt="Bootstrap"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="30" height="30" alt="CSS"/>
-    <img src="" title="" width="30" height="30" alt=""/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" width="30" height="30" alt="Redis"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAi" width="30" height="30" alt="OpenAI"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" width="30" height="30" alt="Jira"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="30" height="30" alt="Figma"/>
   </div>
 </div>
 ✨My Stats:
