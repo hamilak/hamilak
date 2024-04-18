@@ -10,7 +10,7 @@
 -->
 
 🌱 Learning and Development
--  Currently learning and improving on javascript frameworks - reactjs, next.js, node.js, nestjs, angular.
+-  Experience in javascript frameworks - reactjs, next.js, node.js, nestjs, angular.
    
 🔭 Goals
 -  Contribute to more open-source projects
