@@ -9,8 +9,8 @@
 **hamilak/hamilak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🌱 Learning and Development
--  Experience in javascript frameworks - reactjs, next.js, node.js, nestjs, angular.
+🛠️ Skill set
+-  Experienced in javascript frameworks - reactjs, next.js, node.js, nestjs, angular.
    
 🔭 Goals
 -  Contribute to more open-source projects
